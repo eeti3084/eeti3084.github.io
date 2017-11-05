@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" width="150" height="150" src="http://">
+<img align="left" width="150" height="150" src="/images/IMG_0349.JPG">
 
 ### More Information
 
