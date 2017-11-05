@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
+</p>
   <img align="left" width="300" height="230" src="/images/IMG_0048 (3).JPG" HSPACE=”50”  VSPACE=”50”/>
 
 
