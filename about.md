@@ -3,13 +3,8 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
-
-
  
-  <img src="/images/IMG_0048 (3).JPG" align="right" width="300" height="230" border="0" style="Margin:0 0 20px 20px; background:#E79851;" />
-
-
+<img src="/images/IMG_0048 (3).JPG" align="right" width="300" height="230" border="0" style="Margin:0 0 20px 20px; background:#E79851;" />
 
 I am shanmukha,I work as Senior Data analyst with citizens Bank.I'm passionate about Data,I love to use Data to solve practical problems. In my current role i used my Data analytics skills to increase operational Performance of collections and Recovery.
 
