@@ -6,7 +6,7 @@ permalink: /about/
 
 
 <p align="Right">
-  <img width="300" height="200" src="/images/IMG_0349.JPG">
+  <img width="400" height="300" src="/images/IMG_0048 (3).JPG">
 </p>
 
 
