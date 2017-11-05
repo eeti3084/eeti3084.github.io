@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" width="150" height="150" src="/images/IMG_0349.JPG">
+<img align="left" width="300" height="300" src="/images/IMG_0349.JPG">
 
-### More Information
+### MY Data science analysis
 
 A place to include any other types of information that you'd like to include about yourself.
 
