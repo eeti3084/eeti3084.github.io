@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 
-<p align="left">
-  <img width="300" height="230" src="/images/IMG_0048 (3).JPG">
+
+ 
+  <img src="/images/IMG_0048 (3).JPG" align="right" width="300" height="230" border="0" style="Margin:0 0 20px 20px; background:#E79851;" />
 
 
 
