@@ -8,9 +8,8 @@ permalink: /about/
 <p align="Left">
   <img width="400" height="300" src="/images/IMG_0048 (3).JPG">
 </p>
-
-I am shanmukha Eeti Senior Data analyst with citizens Bank.
-
+I am shanmukha Eeti Senior Data analyst with citizens Bank.I'm passionate about Data,I love to use Data to solve practical problems. 
+In my current i used my Data analytics skills to increase operational Performance of collections and Recovery.
 
 ### MY Data science analysis
 
