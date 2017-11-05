@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<img align="left" width="150" height="150" src="http://">
 
 ### More Information
 
