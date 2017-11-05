@@ -6,8 +6,9 @@ permalink: /about/
 
 
 <p align="center">
-  <img width="460" height="300" src="src="/images/IMG_0349.JPG/460/300">
+  <img width="580" height="300" src="/images/IMG_0349.JPG">
 </p>
+
 
 ### MY Data science analysis
 
