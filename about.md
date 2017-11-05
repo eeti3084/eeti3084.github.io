@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 <p align="left">
-  <img width="300" height="230" src="/images/IMG_0048 (3).JPG">
+  <img width="300" height="230" src="/images/IMG_0048 (3).JPG" HSPACE=”50” VSPACE=”50”/>
 </p>
 
 <body>  
