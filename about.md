@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-  <img align="left" width="300" height="230" src="/images/IMG_0048(3).jpg" HSPACE=”50” VSPACE=”50”/>
+  <img align="left" width="300" height="230" src="/images/IMG_0048 (3).jpg" HSPACE=”50” VSPACE=”50”/>
 
 
 
