@@ -9,6 +9,8 @@ permalink: /about/
   <img width="400" height="300" src="/images/IMG_0048 (3).JPG">
 </p>
 
+I am shanmukha Eeti Senior Data analyst with citizens Bank.
+
 
 ### MY Data science analysis
 
