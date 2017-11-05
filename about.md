@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" width="300" height="300" src="/images/IMG_0349.JPG">
+
+<p align="center">
+  <img width="460" height="300" src="src="/images/IMG_0349.JPG/460/300">
+</p>
 
 ### MY Data science analysis
 
