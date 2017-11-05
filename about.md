@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 
-
-<img align=”left” width=”300” height=”230”  SRC=”/images/IMG_0048 (3).JPG”   HSPACE=”50”  VSPACE=”50”/>
+<p align="left">
+  <img width="300" height="230" src="/images/IMG_0048 (3).JPG">
+</p>
 
 
 I am shanmukha,I work as Senior Data analyst with citizens Bank.I'm passionate about Data,I love to use Data to solve practical problems. In my current role i used my Data analytics skills to increase operational Performance of collections and Recovery.
